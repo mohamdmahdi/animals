@@ -1,0 +1,6 @@
+cat
+dog
+snake
+parkeet
+turtle
+fish
